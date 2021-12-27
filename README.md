@@ -1,16 +1,17 @@
 # Reasoned Art Manifesto
-1. Viviamo _onlife_, tra il digitale e il fisico, nell’_infosfera_ e nell’_iperstoria_[^1].
-2. L’arte va _fuori di sé_[^2] e si manifesta in una dinamica multidisciplinare e multisensoriale al fine di ottenere una nuova centralità sociale.
-3. L’arte si manifesta nelle community fisiche e digitali fra individui che vivono in nuovi habitat fluidi e dinamici.
-4. La tecnologia è in ibridazione con il nostro corpo: ne amplifica e ne modifica le capacità sensoriali, emozionali e fisiche.
-5. I token non fungibili (NFT) sono beni "tangibili" nel mondo intangibile.
-6. La blockchain restituisce ad ogni individuo autonomia e identità, promuovendo un sistema circolare e decentralizzato basato sulla fiducia.
-7. Compito dell’umanesimo digitale è attuare una governance dell’innovazione partecipativa e consapevole.
-8. Le persone sono chiamate ad intervenire e ad avere un dialogo attivo nei confronti dell’arte, della _res publica_ e della co-progettazione di città sensibili.
-9. Nell’epoca dell’immediatezza dobbiamo ritrovare la capacità di ragionare a lungo termine e pensare ad un progetto _umano_[^3] etico.
-10. Le aziende dovrebbero sostenere un modello benefit per avere una società migliore e un ambiente sano e pulito.
-11. L’arte intercetta il futuro e propone una visione innovativa del presente.
 
-[^1]: Luciano Floridi, La quarta rivoluzione. Come l'infosfera sta trasformando il mondo, 2017.
-[^2]: Studio Azzurro, L’arte fuori di sé. Un manifesto dell’arte nell’era tecnologica, 2011.
-[^3]: Luciano Floridi, Il verde e il blu. Idee ingenue per migliorare la politica, 2020.
+1. In the age of immediacy, we must rediscover our ability to think long term and conceive an ethical *human project*[^1].
+2. We are called upon to intervene and have an active dialogue with regard to art, res publica, and the co-design of sensitive cities.
+3. We must implement a participatory and conscious governance of innovation to solve our massive cultural, social, environmental, and economic problems. 
+4. The market must take cultural responsibility and implement a benefit model to build a better society and a healthy, clean environment. 
+5. Technology is becoming hybridized with our bodies: it amplifies and modifies our sensory, emotional, and physical capacities.
+6. We live onlife, between the digital and the physical, in the infosphere and *hyper-history*[^2].
+7. Decentralization gives back autonomy and identity to each individual, promoting a circular system.
+8. Non-fungible tokens (NFT) are 'tangible' assets in the intangible world of the metaverse. 
+9. Art goes *beyond itself*[^3] and manifests itself in a multidisciplinary and multi-sensory way in order to achieve a new social centrality.
+10. Art manifests itself in physical and digital communities of individuals living in new fluid and dynamic habitats.
+11. Art intercepts the future and offers an innovative vision of the present.
+
+[^1]: Luciano Floridi, Il verde e il blu. Idee ingenue per migliorare la politica, 2020.
+[^2]: Luciano Floridi, La quarta rivoluzione. Come l'infosfera sta trasformando il mondo, 2017.
+[^3]: Studio Azzurro, L’arte fuori di sé. Un manifesto dell’arte nell’era tecnologica, 2011.
